@@ -107,7 +107,17 @@ p {
   padding: 14px 16px;
   background: linear-gradient(82deg, #273061 0%, #121732 100%), #121732;
   color: #ffffff;
+  font-size: 14px;
 }
+
+.foot a {
+  color: #ffffff;
+}
+
+.foot p {
+  line-height: 1.15;
+}
+
 
 /* h3 {
 
