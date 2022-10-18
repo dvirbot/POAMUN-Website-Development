@@ -92,6 +92,31 @@ p {
   height: 400px;
 }
 
+#special-header {
+  padding-bottom: 50px;
+}
+
+#security-council-img {
+  width: 442px;
+  height: 400px;
+  padding-left: 79px;
+  padding-right: 79px;
+}
+
+#ecosoc-img {
+  width: 400px;
+  height: 400px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.portrait-img {
+  width: 300px;
+  height: 400px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
 .left {
   padding-right: 96px;
 }
