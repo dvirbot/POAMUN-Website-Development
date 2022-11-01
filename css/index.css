@@ -151,6 +151,10 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 
+.short-description {
+  font-size: 22px;
+}
+
 .foot {
   padding: 14px 16px;
   background: linear-gradient(82deg, #273061 0%, #121732 100%), #121732;
